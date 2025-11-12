@@ -8,4 +8,4 @@
 
 In this lesson, we'll learn how to generate dynamic open-graph (OG) images using AdonisJS and Puppeteer. We'll also add rate limiting to limit the number of OG images being generated at once and discuss some things to watch out for.
 
-👉 [Watch now on Adocasts!](https://adocasts.com/series/generating-dynamic-og-images-with-adonisjs-and-puppeteer)
+👉 [Watch now on Adocasts!](https://adocasts.com/lessons/generating-dynamic-og-images-with-adonisjs-and-puppeteer)
